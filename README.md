@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0015EA&width=435&lines=Olá! Sou Thiago Figueiredo" alt="mensagem de boas vindas com a frase: Olá! Sou Thiago Figueiredo">
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0015EA&width=435&lines=Olá!+Sou+Thiago+Figueiredo" alt="mensagem de boas vindas com a frase: Olá! Sou Thiago Figueiredo">
   </a>
 </div>
 
